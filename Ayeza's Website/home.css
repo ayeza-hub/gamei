@@ -1,0 +1,60 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-style: oblique;
+    color: black;
+  }
+
+#head{
+  background-color: bisque;
+  font-size: 50px ;
+  margin-top: 40px;
+  margin-left: 330px;
+  width: 600px;
+ text-align: center; 
+  border: 2px solid black;
+  border-width: 5px;
+  border-radius: 10px ;    
+}
+
+.img{
+  background-image: url("image.jpeg");
+  background-size: cover ;
+  background-repeat: no-repeat ;
+  background-attachment: fixed;
+  }
+
+.setting{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+ .center{
+  background-color: bisque;
+  border: 1px solid black;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-right: 200px;
+  margin-left: 230px;
+  font-size: 30px;
+ font-style: oblique;
+}
+.list{
+ padding-left: 97px;
+}
+.color{
+  
+  color: black;  
+}
+.paraborder{
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 250px;
+  margin-left: 350px;
+  margin-right: 320px;
+  background-color: bisque;
+  font-size: 23px;  
+}
